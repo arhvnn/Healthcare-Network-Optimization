@@ -1,0 +1,422 @@
+{
+  "Ain Benian": [
+    "Cheraga",
+    "Beni Messous",
+    "Hammamet"
+  ],
+  "Ain Taya": [
+    "Hraoua",
+    "Rouiba",
+    "Bordj El Bahri",
+    "El Marsa"
+  ],
+  "Alger Centre": [
+    "Casbah",
+    "Oued Koreich",
+    "El Biar",
+    "Hamma",
+    "Sidi M'Hamed",
+    "El Mouradia"
+  ],
+  "Bab El Oued": [
+    "Bologhine",
+    "Oued Koreich",
+    "Casbah"
+  ],
+  "Bab Ezzouar": [
+    "Oued Smar",
+    "Dar El Beida",
+    "Bordj El Kiffan",
+    "Mohammadia"
+  ],
+  "Baba Hassen": [
+    "Douera",
+    "Khraicia",
+    "Saoula",
+    "Draria",
+    "El Achour",
+    "Ouled Fayet"
+  ],
+  "Bachdjerrah": [
+    "Baraki",
+    "El Harrach",
+    "Bourouba",
+    "Kouba",
+    "Gue de Constantine"
+  ],
+  "Baraki": [
+    "Sidi Moussa",
+    "Les Eucalytpus",
+    "El Harrach",
+    "Bachdjerrah",
+    "Gue de Constantine",
+    "Birtouta",
+    "Saoula"
+  ],
+  "Ben Aknoun": [
+    "Bouzareah",
+    "Dely Brahim",
+    "El Achour",
+    "Hydra",
+    "El Mouradia",
+    "El Biar"
+  ],
+  "Beni Messous": [
+    "Bouzareah",
+    "Hammamet",
+    "Ain Benian",
+    "Cheraga",
+    "Dely Brahim",
+    "Ben Aknoun"
+  ],
+  "Bir Mourad Rais": [
+    "Kouba",
+    "El Madania",
+    "El Mouradia",
+    "Hydra",
+    "Draria",
+    "Birkhadem"
+  ],
+  "Birkhadem": [
+    "Gue de Constantine",
+    "Kouba",
+    "Bir Mourad Rais",
+    "Draria",
+    "Saoula"
+  ],
+  "Birtouta": [
+    "Ouled Chbel",
+    "Tassala El Merdja",
+    "Douera",
+    "Khraicia",
+    "Saoula",
+    "Baraki",
+    "Sidi Moussa"
+  ],
+  "Bologhine": [
+    "Rais Hamidou",
+    "Bouzareah",
+    "Oued Koreich",
+    "Bab El Oued"
+  ],
+  "Bordj El Bahri": [
+    "El Marsa",
+    "Ain Taya",
+    "Rouiba",
+    "Bordj El Kiffan"
+  ],
+  "Bordj El Kiffan": [
+    "Bordj El Bahri",
+    "Rouiba",
+    "Dar El Beida",
+    "Bab Ezzouar",
+    "Mohammadia"
+  ],
+  "Bourouba": [
+    "El Magharia",
+    "Kouba",
+    "Gue de Constantine",
+    "Bachdjerrah",
+    "El Harrach",
+    "Mohammadia",
+    "Hussein Dey"
+  ],
+  "Bouzareah": [
+    "El Biar",
+    "Oued Koreich",
+    "Bologhine",
+    "Rais Hamidou",
+    "Hammamet",
+    "Beni Messous",
+    "Dely Brahim",
+    "Ben Aknoun"
+  ],
+  "Casbah": [
+    "Bab El Oued",
+    "Oued Koreich",
+    "Alger Centre"
+  ],
+  "Cheraga": [
+    "Staoueli",
+    "Soudania",
+    "Ouled Fayet",
+    "Dely Brahim",
+    "Beni Messous",
+    "Ain Benian"
+  ],
+  "Dar El Beïda": [
+    "Les Eucalyptus",
+    "El Harrach",
+    "Oued Smar",
+    "Bab Ezzouar",
+    "Bordj El Kiffan",
+    "Rouiba"
+  ],
+  "Dely Brahim": [
+    "Beni Messous",
+    "Cheraga",
+    "Ouled Fayet",
+    "El Achour",
+    "Hydra",
+    "Ben Aknoun",
+    "Bouzareah"
+  ],
+  "Douera": [
+    "Mahelma",
+    "Rahmania",
+    "Ouled Fayet",
+    "Baba Hassen",
+    "Khraicia",
+    "Birtouta",
+    "Tassala El Merdja"
+  ],
+  "Draria": [
+    "Baba Hassen",
+    "Saoula",
+    "Birkhadem",
+    "Bir Mourad Rais",
+    "Hydra",
+    "El Achour"
+  ],
+  "El Achour": [
+    "Baba Hassen",
+    "Draria",
+    "Hydra",
+    "Ben Aknoun",
+    "Dely Brahim",
+    "Ouled Fayet"
+  ],
+  "El Biar": [
+    "Ben Aknoun",
+    "Hydra",
+    "El Mouradia",
+    "El Madania",
+    "Alger Centre",
+    "Oued Koreich",
+    "Bouzareah"
+  ],
+  "El Harrach": [
+    "Les Eucalyptus",
+    "Oued Smar",
+    "Dar El Beida",
+    "Mohammadia",
+    "Hussein Dey",
+    "El Magharia",
+    "Bourouba",
+    "Bachdjerrah",
+    "Baraki"
+  ],
+  "El Madania": [
+    "Hamma",
+    "Alger Centre",
+    "Sidi M'Hamed",
+    "El Mouradia",
+    "Bir Mourad Rais",
+    "Kouba"
+  ],
+  "El Magharia": [
+    "Hussein Dey",
+    "Mohammadia",
+    "El Harrach",
+    "Bourouba",
+    "Kouba"
+  ],
+  "El Marsa": [
+    "Ain Taya",
+    "Bordj El Bahri"
+  ],
+  "El Mouradia": [
+    "Alger Centre",
+    "El Biar",
+    "Hydra",
+    "Bir Mourad Rais",
+    "El Madania",
+    "Hamma",
+    "Sidi M'Hamed"
+  ],
+  "Gue de Constantine": [
+    "Saouola",
+    "Baraki",
+    "El Harrach",
+    "Bachdjerrah",
+    "Bourouba",
+    "Kouba",
+    "Birkhadem"
+  ],
+  "Hamma": [
+    "Hussein Dey",
+    "Kouba",
+    "El Madania",
+    "Sidi M'Hamed",
+    "Alger Centre"
+  ],
+  "Hammamet": [
+    "Ain Benian",
+    "Beni Messous",
+    "Bouzareah",
+    "Rais Hamidou"
+  ],
+  "Hraoua": [
+    "Reghaia",
+    "Rouiba",
+    "Ain Taya"
+  ],
+  "Hussein Dey": [
+    "Mohammadia",
+    "El Harrach",
+    "Bourouba",
+    "El Magharia",
+    "Kouba",
+    "Hamma"
+  ],
+  "Hydra": [
+    "Bir Mourad Rais",
+    "El Madania",
+    "El Biar",
+    "Ben Aknoun",
+    "Dely Brahim",
+    "El Achour",
+    "Draria"
+  ],
+  "Khraicia": [
+    "Birtouta",
+    "Saoula",
+    "Draria",
+    "Baba Hassen",
+    "Douera"
+  ],
+  "Kouba": [
+    "Gue de Constantine",
+    "Bachdjerrah",
+    "Bourouba",
+    "El Magharia",
+    "Hussein Dey",
+    "Hamma",
+    "El Madania",
+    "Bir Mourad Rais",
+    "Birkhadem"
+  ],
+  "Les Eucalyptus": [
+    "Sidi Moussa",
+    "Baraki",
+    "El Harrach",
+    "Dar El Beida",
+    "Oued Smar"
+  ],
+  "Mahelma": [
+    "Zeralda",
+    "Souidania",
+    "Rahmania",
+    "Douera",
+    "Tassala El Merdja"
+  ],
+  "Mohammadia": [
+    "Bordj El Kiffan",
+    "Bab Ezzouar",
+    "Oued Smar",
+    "El Harrach",
+    "Bourouba",
+    "El Magharia",
+    "Hussein Dey"
+  ],
+  "Oued Koreich": [
+    "Alger Centre",
+    "El Biar",
+    "Bab El Oued",
+    "Bologhine",
+    "Bouzareah",
+    "Casbah"
+  ],
+  "Oued Smar": [
+    "Les Eucalyptus",
+    "Dar El Beida",
+    "Bab Ezzouar",
+    "Mohammadia",
+    "El Harrach"
+  ],
+  "Ouled Chbel": [
+    "Tassala El Merdja",
+    "Birtouta",
+    "Sidi Moussa"
+  ],
+  "Ouled Fayet": [
+    "Cheraga",
+    "Staoueli",
+    "Souidania",
+    "Rahmani",
+    "Douera",
+    "Baba Hassen",
+    "El Achour",
+    "Dely Brahim"
+  ],
+  "Rahmania": [
+    "Souidania",
+    "Mahelma",
+    "Douera",
+    "Ouled Fayet"
+  ],
+  "Rais Hamidou": [
+    "Hammamet",
+    "Bouzareah",
+    "Bologhine"
+  ],
+  "Reghaia": [
+    "Rouiba",
+    "Hraoua"
+  ],
+  "Rouiba": [
+    "Dar El Beida",
+    "Bordj El Kiffan",
+    "Bordj El Bahri",
+    "Ain Taya",
+    "Hraoua",
+    "Reghaia"
+  ],
+  "Saoula": [
+    "Baraki",
+    "Gue de Constantine",
+    "Birkhadem",
+    "Draria",
+    "Baba Hassen",
+    "Khraicia",
+    "Birtouta"
+  ],
+  "Sidi M'Hamed": [
+    "El Mouradia",
+    "El Madania",
+    "Hamma",
+    "Alger Centre",
+    "El Biar"
+  ],
+  "Sidi Moussa": [
+    "Ouled Chbel",
+    "Baraki",
+    "Birtouta",
+    "Les Eucalyptus"
+  ],
+  "Souidania": [
+    "Mahelma",
+    "Zeralda",
+    "Staoueli",
+    "Cheraga",
+    "Ouled Fayet",
+    "Rahmania"
+  ],
+  "Staoueli": [
+    "Zeralda",
+    "Souidania",
+    "Ouled Fayet",
+    "Cheraga"
+  ],
+  "Tassala El Merdja": [
+    "Mahelma",
+    "Douera",
+    "Birtouta",
+    "Ouled Chbel"
+  ],
+  "Zeralda": [
+    "Mahelma",
+    "Souidania",
+    "Staoueli"
+  ]
+}
