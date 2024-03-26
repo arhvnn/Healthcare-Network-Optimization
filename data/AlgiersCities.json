@@ -1,0 +1,647 @@
+{
+  "Ain Benian": [
+    [
+      "Cheraga",
+      "Beni Messous",
+      "Hammamet"
+    ],
+    []
+  ],
+  "Ain Taya": [
+    [
+      "Hraoua",
+      "Rouiba",
+      "Bordj El Bahri",
+      "El Marsa"
+    ],
+    [
+      "EPH Ain Taya"
+    ]
+  ],
+  "Alger Centre": [
+    [
+      "Casbah",
+      "Oued Koreich",
+      "El Biar",
+      "Hamma",
+      "Sidi M'Hamed",
+      "El Mouradia"
+    ],
+    [
+      "EHS Des Brules Et Chirurgie Réparatrice Claudine Et Pierre Chaulet"
+    ]
+  ],
+  "Bab El Oued": [
+    [
+      "Bologhine",
+      "Oued Koreich",
+      "Casbah"
+    ],
+    [
+      "CHU Bab El Oued",
+      "EPS de Proximité BAB EL OUED"
+    ]
+  ],
+  "Bab Ezzouar": [
+    [
+      "Oued Smar",
+      "Dar El Beida",
+      "Bordj El Kiffan",
+      "Mohammadia"
+    ],
+    []
+  ],
+  "Baba Hassen": [
+    [
+      "Douera",
+      "Khraicia",
+      "Saoula",
+      "Draria",
+      "El Achour",
+      "Ouled Fayet"
+    ],
+    []
+  ],
+  "Bachdjerrah": [
+    "Baraki",
+    "El Harrach",
+    "Bourouba",
+    "Kouba",
+    "Gue de Constantine"
+  ],
+  "Baraki": [
+    [
+      "Sidi Moussa",
+      "Les Eucalytpus",
+      "El Harrach",
+      "Bachdjerrah",
+      "Gue de Constantine",
+      "Birtouta",
+      "Saoula"
+    ],
+    [
+      "EPS de Proximité BARAKI"
+    ]
+  ],
+  "Ben Aknoun": [
+    [
+      "Bouzareah",
+      "Dely Brahim",
+      "El Achour",
+      "Hydra",
+      "El Mouradia",
+      "El Biar"
+    ],
+    [
+      "EHS Ben Aknoun"
+    ]
+  ],
+  "Beni Messous": [
+    [
+      "Bouzareah",
+      "Hammamet",
+      "Ain Benian",
+      "Cheraga",
+      "Dely Brahim",
+      "Ben Aknoun"
+    ],
+    [
+      "CHU Beni Messous"
+    ]
+  ],
+  "Bir Mourad Rais": [
+    [
+      "Kouba",
+      "El Madania",
+      "El Mouradia",
+      "Hydra",
+      "Draria",
+      "Birkhadem"
+    ],
+    [
+      "EHS Chirurgie Cardiaque Clinique Mohamed ABDERRAHMANI"
+    ]
+  ],
+  "Birkhadem": [
+    [
+      "Gue de Constantine",
+      "Kouba",
+      "Bir Mourad Rais",
+      "Draria",
+      "Saoula"
+    ],
+    []
+  ],
+  "Birtouta": [
+    [
+      "Ouled Chbel",
+      "Tassala El Merdja",
+      "Douera",
+      "Khraicia",
+      "Saoula",
+      "Baraki",
+      "Sidi Moussa"
+    ],
+    []
+  ],
+  "Bologhine": [
+    [
+      "Rais Hamidou",
+      "Bouzareah",
+      "Oued Koreich",
+      "Bab El Oued"
+    ],
+    [
+      "EPH Bologhine Ibn Ziri"
+    ]
+  ],
+  "Bordj El Bahri": [
+    "El Marsa",
+    "Ain Taya",
+    "Rouiba",
+    "Bordj El Kiffan"
+  ],
+  "Bordj El Kiffan": [
+    [
+      "Bordj El Bahri",
+      "Rouiba",
+      "Dar El Beida",
+      "Bab Ezzouar",
+      "Mohammadia"
+    ],
+    [
+      "EPS de Proximité BORDJ EL KIFFAN (DERGANA)"
+    ]
+  ],
+  "Bourouba": [
+    [
+      "El Magharia",
+      "Kouba",
+      "Gue de Constantine",
+      "Bachdjerrah",
+      "El Harrach",
+      "Mohammadia",
+      "Hussein Dey"
+    ],
+    []
+  ],
+  "Bouzareah": [
+    [
+      "El Biar",
+      "Oued Koreich",
+      "Bologhine",
+      "Rais Hamidou",
+      "Hammamet",
+      "Beni Messous",
+      "Dely Brahim",
+      "Ben Aknoun"
+    ],
+    [
+      "EPS de Proximité BOUZAREAH"
+    ]
+  ],
+  "Casbah": [
+    [
+      "Bab El Oued",
+      "Oued Koreich",
+      "Alger Centre"
+    ],
+    [
+      "EHS NEURO CHIRURGICAL ALI AIT IDIR"
+    ]
+  ],
+  "Cheraga": [
+    [
+      "Staoueli",
+      "Soudania",
+      "Ouled Fayet",
+      "Dely Brahim",
+      "Beni Messous",
+      "Ain Benian"
+    ],
+    [
+      "EPS de Proximité CHERAGA ( BOUCHAOUI)"
+    ]
+  ],
+  "Dar El Beïda": [
+    [
+      "Les Eucalyptus",
+      "El Harrach",
+      "Oued Smar",
+      "Bab Ezzouar",
+      "Bordj El Kiffan",
+      "Rouiba"
+    ],
+    []
+  ],
+  "Dely Brahim": [
+    [
+      "Beni Messous",
+      "Cheraga",
+      "Ouled Fayet",
+      "El Achour",
+      "Hydra",
+      "Ben Aknoun",
+      "Bouzareah"
+    ],
+    [
+      "EHS CNMS DR MAOUCHE MOHAND AMOKRANE"
+    ]
+  ],
+  "Douera": [
+    [
+      "Mahelma",
+      "Rahmania",
+      "Ouled Fayet",
+      "Baba Hassen",
+      "Khraicia",
+      "Birtouta",
+      "Tassala El Merdja"
+    ],
+    [
+      "CHU Douera"
+    ]
+  ],
+  "Draria": [
+    [
+      "Baba Hassen",
+      "Saoula",
+      "Birkhadem",
+      "Bir Mourad Rais",
+      "Hydra",
+      "El Achour"
+    ],
+    [
+      "EPS de Proximité de DRARIA",
+      "EHS REEDUCATION Réadaptation Fonctionnelle Kasdi Merbah Tixeraine"
+    ]
+  ],
+  "El Achour": [
+    [
+      "Baba Hassen",
+      "Draria",
+      "Hydra",
+      "Ben Aknoun",
+      "Dely Brahim",
+      "Ouled Fayet"
+    ],
+    []
+  ],
+  "El Biar": [
+    [
+      "Ben Aknoun",
+      "Hydra",
+      "El Mouradia",
+      "El Madania",
+      "Alger Centre",
+      "Oued Koreich",
+      "Bouzareah"
+    ],
+    [
+      "EPH EL BIAR (DJILLALI BELKHENCHIR)"
+    ]
+  ],
+  "El Harrach": [
+    [
+      "Les Eucalyptus",
+      "Oued Smar",
+      "Dar El Beida",
+      "Mohammadia",
+      "Hussein Dey",
+      "El Magharia",
+      "Bourouba",
+      "Bachdjerrah",
+      "Baraki"
+    ],
+    [
+      "EPH EL HARRACH ( HASSAN BADI)",
+      "EHS DES URGENCES MEDICO CHIRURGICALES SALIM ZEMIRLI"
+    ]
+  ],
+  "El Madania": [
+    [
+      "Hamma",
+      "Alger Centre",
+      "Sidi M'Hamed",
+      "El Mouradia",
+      "Bir Mourad Rais",
+      "Kouba"
+    ],
+    []
+  ],
+  "El Magharia": [
+    [
+      "Hussein Dey",
+      "Mohammadia",
+      "El Harrach",
+      "Bourouba",
+      "Kouba"
+    ],
+    []
+  ],
+  "El Marsa": [
+    [
+      "Ain Taya",
+      "Bordj El Bahri"
+    ],
+    []
+  ],
+  "El Mouradia": [
+    [
+      "Alger Centre",
+      "El Biar",
+      "Hydra",
+      "Bir Mourad Rais",
+      "El Madania",
+      "Hamma",
+      "Sidi M'Hamed"
+    ],
+    [
+      "EPH El Mouradia (Djillali Rahmouni)"
+    ]
+  ],
+  "Gue de Constantine": [
+    [
+      "Saouola",
+      "Baraki",
+      "El Harrach",
+      "Bachdjerrah",
+      "Bourouba",
+      "Kouba",
+      "Birkhadem"
+    ],
+    []
+  ],
+  "Hamma": [
+    [
+      "Hussein Dey",
+      "Kouba",
+      "El Madania",
+      "Sidi M'Hamed",
+      "Alger Centre"
+    ],
+    []
+  ],
+  "Hammamet": [
+    [
+      "Ain Benian",
+      "Beni Messous",
+      "Bouzareah",
+      "Rais Hamidou"
+    ],
+    []
+  ],
+  "Hraoua": [
+    [
+      "Reghaia",
+      "Rouiba",
+      "Ain Taya"
+    ],
+    []
+  ],
+  "Hussein Dey": [
+    [
+      "Mohammadia",
+      "El Harrach",
+      "Bourouba",
+      "El Magharia",
+      "Kouba",
+      "Hamma"
+    ],
+    [
+      "CHU Nafissa Hamoud"
+    ]
+  ],
+  "Hydra": [
+    [
+      "Bir Mourad Rais",
+      "El Madania",
+      "El Biar",
+      "Ben Aknoun",
+      "Dely Brahim",
+      "El Achour",
+      "Draria"
+    ],
+    []
+  ],
+  "Khraicia": [
+    [
+      "Birtouta",
+      "Saoula",
+      "Draria",
+      "Baba Hassen",
+      "Douera"
+    ],
+    []
+  ],
+  "Kouba": [
+    [
+      "Gue de Constantine",
+      "Bachdjerrah",
+      "Bourouba",
+      "El Magharia",
+      "Hussein Dey",
+      "Hamma",
+      "El Madania",
+      "Bir Mourad Rais",
+      "Birkhadem"
+    ],
+    [
+      "EPS de Proximité KOUBA (LES ANNASSER)",
+      "EPH Kouba (Bachir Mentouri)",
+      "EHS PSYCHIATRIQUE DRID HOCINE"
+    ]
+  ],
+  "Les Eucalyptus": [
+    [
+      "Sidi Moussa",
+      "Baraki",
+      "El Harrach",
+      "Dar El Beida",
+      "Oued Smar"
+    ],
+    []
+  ],
+  "Mahelma": [
+    [
+      "Zeralda",
+      "Souidania",
+      "Rahmania",
+      "Douera",
+      "Tassala El Merdja"
+    ],
+    []
+  ],
+  "Mohammadia": [
+    [
+      "Bordj El Kiffan",
+      "Bab Ezzouar",
+      "Oued Smar",
+      "El Harrach",
+      "Bourouba",
+      "El Magharia",
+      "Hussein Dey"
+    ],
+    []
+  ],
+  "Oued Koreich": [
+    [
+      "Alger Centre",
+      "El Biar",
+      "Bab El Oued",
+      "Bologhine",
+      "Bouzareah",
+      "Casbah"
+    ],
+    [
+      "EHS EN MALADIES INFECTIEUSES Dr EL HADI FLICI"
+    ]
+  ],
+  "Oued Smar": [
+    [
+      "Les Eucalyptus",
+      "Dar El Beida",
+      "Bab Ezzouar",
+      "Mohammadia",
+      "El Harrach"
+    ],
+    []
+  ],
+  "Ouled Chbel": [
+    [
+      "Tassala El Merdja",
+      "Birtouta",
+      "Sidi Moussa"
+    ],
+    []
+  ],
+  "Ouled Fayet": [
+    [
+      "Cheraga",
+      "Staoueli",
+      "Souidania",
+      "Rahmani",
+      "Douera",
+      "Baba Hassen",
+      "El Achour",
+      "Dely Brahim"
+    ],
+    []
+  ],
+  "Rahmania": [
+    [
+      "Souidania",
+      "Mahelma",
+      "Douera",
+      "Ouled Fayet"
+    ],
+    []
+  ],
+  "Rais Hamidou": [
+    [
+      "Hammamet",
+      "Bouzareah",
+      "Bologhine"
+    ],
+    []
+  ],
+  "Reghaia": [
+    [
+      "Rouiba",
+      "Hraoua"
+    ],
+    [
+      "EPS de Proximité REGHAIA"
+    ]
+  ],
+  "Rouiba": [
+    [
+      "Dar El Beida",
+      "Bordj El Kiffan",
+      "Bordj El Bahri",
+      "Ain Taya",
+      "Hraoua",
+      "Reghaia"
+    ],
+    [
+      "EPH ROUIBA"
+    ]
+  ],
+  "Saoula": [
+    [
+      "Baraki",
+      "Gue de Constantine",
+      "Birkhadem",
+      "Draria",
+      "Baba Hassen",
+      "Khraicia",
+      "Birtouta"
+    ],
+    []
+  ],
+  "Sidi M'Hamed": [
+    [
+      "El Mouradia",
+      "El Madania",
+      "Hamma",
+      "Alger Centre",
+      "El Biar"
+    ],
+    [
+      "EHS Anti Cancéreux Pierre Et Marie Curie",
+      "CHU Mustapha Bacha",
+      "EPS de Proximité SIDI M'HAMED (BOUCHENAFA)"
+    ]
+  ],
+  "Sidi Moussa": [
+    [
+      "Ouled Chbel",
+      "Baraki",
+      "Birtouta",
+      "Les Eucalyptus"
+    ],
+    []
+  ],
+  "Souidania": [
+    [
+      "Mahelma",
+      "Zeralda",
+      "Staoueli",
+      "Cheraga",
+      "Ouled Fayet",
+      "Rahmania"
+    ],
+    []
+  ],
+  "Staoueli": [
+    [
+      "Zeralda",
+      "Souidania",
+      "Ouled Fayet",
+      "Cheraga"
+    ],
+    [
+      "EHS REEDUCATION READAPTATION AZUR PLAGE (STAOUELI)"
+    ]
+  ],
+  "Tassala El Merdja": [
+    [
+      "Mahelma",
+      "Douera",
+      "Birtouta",
+      "Ouled Chbel"
+    ],
+    []
+  ],
+  "Zeralda": [
+    [
+      "Mahelma",
+      "Souidania",
+      "Staoueli"
+    ],
+    [
+      "EPS de Proximité ZERALDA",
+      "EPH ZERALDA"
+    ]
+  ]
+}

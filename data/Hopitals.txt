@@ -1,0 +1,35 @@
+"CHU Beni Messous": 
+"CHU Bab El Oued": 
+"CHU Nafiz Hamoud": Hussein Dey
+"CHU Mustapha Bacha": Sidi M'Hamed
+"CHU Douera": Douera
+"EPS de Proximité SIDI M'HAMED (BOUCHENAFA)": Sidi M'Hamed
+"EPS de Proximité ZERALDA"
+"EPS de Proximité REGHAIA"
+"EPS de Proximité KOUBA (LES ANNASSER)"
+"EPS de Proximité CHERAGA ( BOUCHAOUI)"
+"EPS de Proximité BOUZAREAH"
+"EPS de Proximité BORDJ EL KIFFAN (DERGANA)"
+"EPS de Proximité BARAKI"
+"EPS de Proximité BAB EL OUED"
+"EPS de Proximité de DRARIA"
+"EPH ZERALDA"
+"EPH ROUIBA"
+"EPH EL HARRACH ( HASSAN BADI)"
+"EPH EL BIAR (DJILLALI BELKHENCHIR)"
+"EPH AIN TAYA"
+"EPH Kouba (Bachir Mentouri)"
+"EPH Bologhine Ibn Ziri"
+"EPH El Mouradia (Djillali Rahmouni)"
+"EHS REEDUCATION Réadaptation Fonctionnelle Kasdi Merbah Tixeraine": Draria
+"EHS REEDUCATION READAPTATION AZUR PLAGE (STAOUELI)"
+"EHS PSYCHIATRIQUE DRID HOCINE": Kouba
+"EHS NEURO CHIRURGICAL ALI AIT IDIR": Casbah
+"EHS CNMS DR MAOUCHE MOHAND AMOKRANE": Dely brahim
+"EHS DES URGENCES MEDICO CHIRURGICALES SALIM ZEMIRLI": El Harrach
+"EHS EN MALADIES INFECTIEUSES Dr EL HADI FLICI": Oued Koreich
+"EHS Des Brules Et Chirurgie Réparatrice Claudine Et Pierre Chaulet": Alger Centre
+"EHS Chirurgie Cardiaque Clinique Mohamed ABDERRAHMANI": Bir Mourad Rais
+"EHS Ben Aknoun"
+"EHS Anti Cancéreux Pierre Et Marie Curie": Sidi M'Hamed
+"EHS en Psychiatrie Cheraga"
