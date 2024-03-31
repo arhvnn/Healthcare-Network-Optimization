@@ -1,120 +1,120 @@
 {
   "Alger Centre": {
-    "connections": [
-      "Casbah",
-      "Oued Koreich",
-      "El Biar",
-      "Hamma",
-      "Sidi M'Hamed",
-      "El Mouradia"
-    ],
+    "connections": {
+      "Casbah": 2.4,
+      "Oued Koreich": 3.7,
+      "El Biar": 5,
+      "Hamma": 5.8,
+      "Sidi M'Hamed": 1.9,
+      "El Mouradia": 3.9
+    },
     "hospitals": [
       "EHS Des Brules Et Chirurgie Réparatrice Claudine Et Pierre Chaulet",
       "La clinique privée Audin"
     ]
   },
   "Bab El Oued": {
-    "connections": [
-      "Bologhine",
-      "Oued Koreich",
-      "Casbah"
-    ],
+    "connections": {
+      "Bologhine": 3.2,
+      "Oued Koreich": 3.7,
+      "Casbah": 1.7
+    },
     "hospitals": [
       "CHU Bab El Oued",
       "EPS de Proximité BAB EL OUED"
     ]
   },
   "Bab Ezzouar": {
-    "connections": [
-      "Oued Smar",
-      "Dar El Beida",
-      "Bordj El Kiffan",
-      "Mohammadia"
-    ],
+    "connections": {
+      "Oued Smar": 3.5,
+      "Dar El Beida": 3.7,
+      "Bordj El Kiffan": 7.2,
+      "Mohammadia": 3.7
+    },
     "hospitals": []
   },
   "Baba Hassen": {
-    "connections": [
-      "Douera",
-      "Khraicia",
-      "Saoula",
-      "Draria",
-      "El Achour",
-      "Ouled Fayet"
-    ],
+    "connections": {
+      "Douera": 5,
+      "Khraicia": 4.1,
+      "Saoula": 6.4,
+      "Draria": 5.4,
+      "El Achour": 6.5,
+      "Ouled Fayet": 6.1
+    },
     "hospitals": []
   },
   "Bachdjerrah": {
-    "connections": [
-      "Baraki",
-      "El Harrach",
-      "Bourouba",
-      "Kouba",
-      "Gue de Constantine"
-    ],
+    "connections": {
+      "Baraki": 11,
+      "El Harrach": 3,
+      "Bourouba": 2,
+      "Kouba": 3.9,
+      "Gue de Constantine": 6.6
+    },
     "hospitals": []
   },
   "Baraki": {
-    "connections": [
-      "Sidi Moussa",
-      "Les Eucalytpus",
-      "El Harrach",
-      "Bachdjerrah",
-      "Gue de Constantine",
-      "Birtouta",
-      "Saoula"
-    ],
+    "connections": {
+      "Sidi Moussa": 8.6,
+      "Les Eucalytpus": 6.3,
+      "El Harrach": 8.1,
+      "Bachdjerrah": 9.3,
+      "Gue de Constantine": 7.9,
+      "Birtouta": 12.3,
+      "Saoula": 12
+    },
     "hospitals": [
       "EPS de Proximité BARAKI"
     ]
   },
   "Ben Aknoun": {
-    "connections": [
-      "Bouzareah",
-      "Dely Brahim",
-      "El Achour",
-      "Hydra",
-      "El Mouradia",
-      "El Biar"
-    ],
+    "connections": {
+      "Bouzareah": 5.6,
+      "Dely Brahim": 4.3,
+      "El Achour": 5.4,
+      "Hydra": 2.6,
+      "El Mouradia": 4.6,
+      "El Biar": 2.3
+    },
     "hospitals": [
       "EHS Ben Aknoun"
     ]
   },
   "Beni Messous": {
-    "connections": [
-      "Bouzareah",
-      "Hammamet",
-      "Ain Benian",
-      "Cheraga",
-      "Dely Brahim",
-      "Ben Aknoun"
-    ],
+    "connections": {
+      "Bouzareah": 6.2,
+      "Hammamet": 11.1,
+      "Ain Benian": 8.4,
+      "Cheraga": 2.5,
+      "Dely Brahim": 4.6,
+      "Ben Aknoun": 5
+    },
     "hospitals": [
       "CHU Beni Messous"
     ]
   },
   "Bir Mourad Rais": {
-    "connections": [
-      "Kouba",
-      "El Madania",
-      "El Mouradia",
-      "Hydra",
-      "Draria",
-      "Birkhadem"
-    ],
+    "connections": {
+      "Kouba": 4.3,
+      "El Madania": 2.3,
+      "El Mouradia": 2,
+      "Hydra": 3.4,
+      "Draria": 9.5,
+      "Birkhadem": 2.8
+    },
     "hospitals": [
       "EHS Chirurgie Cardiaque Clinique Mohamed ABDERRAHMANI"
     ]
   },
   "Birkhadem": {
-    "connections": [
-      "Gue de Constantine",
-      "Kouba",
-      "Bir Mourad Rais",
-      "Draria",
-      "Saoula"
-    ],
+    "connections": {
+      "Gue de Constantine": 3.6,
+      "Kouba": 5.7,
+      "Bir Mourad Rais": 2.3,
+      "Draria": 7.3,
+      "Saoula": 3.1
+    },
     "hospitals": [
       "La clinique privée En Nadjah",
       "La clinique privée Aya",
@@ -122,302 +122,302 @@
     ]
   },
   "Birtouta": {
-    "connections": [
-      "Ouled Chbel",
-      "Tassala El Merdja",
-      "Douera",
-      "Khraicia",
-      "Saoula",
-      "Baraki",
-      "Sidi Moussa"
-    ],
+    "connections": {
+      "Ouled Chbel": 7.2,
+      "Tassala El Merdja": 5.1,
+      "Douera": 9.6,
+      "Khraicia": 3.9,
+      "Saoula": 13.1,
+      "Baraki": 15.7,
+      "Sidi Moussa": 13.8
+    },
     "hospitals": []
   },
   "Bologhine": {
-    "connections": [
-      "Rais Hamidou",
-      "Bouzareah",
-      "Oued Koreich",
-      "Bab El Oued"
-    ],
+    "connections": {
+      "Rais Hamidou": 2.7,
+      "Bouzareah": 3.7,
+      "Oued Koreich": 5.7,
+      "Bab El Oued": 2.7
+    },
     "hospitals": [
       "EPH Bologhine Ibn Ziri"
     ]
   },
   "Bordj El Bahri": {
-    "connections": [
-      "El Marsa",
-      "Ain Taya",
-      "Rouiba",
-      "Bordj El Kiffan"
-    ],
+    "connections": {
+      "El Marsa": 4,
+      "Ain Taya": 6.4,
+      "Rouiba": 9.9,
+      "Bordj El Kiffan": 8.5
+    },
     "hospitals": []
   },
   "Bordj El Kiffan": {
-    "connections": [
-      "Bordj El Bahri",
-      "Rouiba",
-      "Dar El Beida",
-      "Bab Ezzouar",
-      "Mohammadia"
-    ],
+    "connections": {
+      "Bordj El Bahri": 8.9,
+      "Rouiba": 12,
+      "Dar El Beida": 6.3,
+      "Bab Ezzouar": 3.3,
+      "Mohammadia": 5.1
+    },
     "hospitals": [
       "EPS de Proximité BORDJ EL KIFFAN (DERGANA)"
     ]
   },
   "Bourouba": {
-    "connections": [
-      "El Magharia",
-      "Kouba",
-      "Gue de Constantine",
-      "Bachdjerrah",
-      "El Harrach",
-      "Mohammadia",
-      "Hussein Dey"
-    ],
+    "connections": {
+      "El Magharia": 3.3,
+      "Kouba": 3.8,
+      "Gue de Constantine": 5.3,
+      "Bachdjerrah": 1.9,
+      "El Harrach": 3.2,
+      "Mohammadia": 8.2,
+      "Hussein Dey": 4.2
+    },
     "hospitals": []
   },
   "Bouzareah": {
-    "connections": [
-      "El Biar",
-      "Oued Koreich",
-      "Bologhine",
-      "Rais Hamidou",
-      "Hammamet",
-      "Beni Messous",
-      "Dely Brahim",
-      "Ben Aknoun"
-    ],
+    "connections": {
+      "El Biar": 4.8,
+      "Oued Koreich": 7.2,
+      "Bologhine": 3.7,
+      "Rais Hamidou": 5.6,
+      "Hammamet": 8.5,
+      "Beni Messous": 4.5,
+      "Dely Brahim": 5.2,
+      "Ben Aknoun": 3.9
+    },
     "hospitals": [
       "EPS de Proximité BOUZAREAH"
     ]
   },
   "Casbah": {
-    "connections": [
-      "Bab El Oued",
-      "Oued Koreich",
-      "Alger Centre"
-    ],
+    "connections": {
+      "Bab El Oued": 3.6,
+      "Oued Koreich": 3.9,
+      "Alger Centre": 1.9
+    },
     "hospitals": [
       "EHS NEURO CHIRURGICAL ALI AIT IDIR"
     ]
   },
   "Cheraga": {
-    "connections": [
-      "Staoueli",
-      "Soudania",
-      "Ouled Fayet",
-      "Dely Brahim",
-      "Beni Messous",
-      "Ain Benian"
-    ],
+    "connections": {
+      "Staoueli": 9.3,
+      "Soudania": 17,
+      "Ouled Fayet": 4.5,
+      "Dely Brahim": 3.1,
+      "Beni Messous": 2.5,
+      "Ain Benian": 6.9
+    },
     "hospitals": [
       "EPS de Proximité CHERAGA ( BOUCHAOUI)"
     ]
   },
   "Dar El Beïda": {
-    "connections": [
-      "Les Eucalyptus",
-      "El Harrach",
-      "Oued Smar",
-      "Bab Ezzouar",
-      "Bordj El Kiffan",
-      "Rouiba"
-    ],
+    "connections": {
+      "Les Eucalyptus": 13.6,
+      "El Harrach": 8,
+      "Oued Smar": 5.9,
+      "Bab Ezzouar": 3.1,
+      "Bordj El Kiffan": 4.9,
+      "Rouiba": 7.5
+    },
     "hospitals": []
   },
   "Dely Brahim": {
-    "connections": [
-      "Beni Messous",
-      "Cheraga",
-      "Ouled Fayet",
-      "El Achour",
-      "Hydra",
-      "Ben Aknoun",
-      "Bouzareah"
-    ],
+    "connections": {
+      "Beni Messous": 4,
+      "Cheraga": 3.3,
+      "Ouled Fayet": 5.9,
+      "El Achour": 3.7,
+      "Hydra": 7.1,
+      "Ben Aknoun": 4.3,
+      "Bouzareah": 7
+    },
     "hospitals": [
       "EHS CNMS DR MAOUCHE MOHAND AMOKRANE",
       "La clinique privée Al Azhar"
     ]
   },
   "Douera": {
-    "connections": [
-      "Mahelma",
-      "Rahmania",
-      "Ouled Fayet",
-      "Baba Hassen",
-      "Khraicia",
-      "Birtouta",
-      "Tassala El Merdja"
-    ],
+    "connections": {
+      "Mahelma": 7.5,
+      "Rahmania": 6.1,
+      "Ouled Fayet": 9.2,
+      "Baba Hassen": 5.3,
+      "Khraicia": 5.5,
+      "Birtouta": 11.5,
+      "Tassala El Merdja": 6.6
+    },
     "hospitals": [
       "CHU Douera"
     ]
   },
   "Draria": {
-    "connections": [
-      "Baba Hassen",
-      "Saoula",
-      "Birkhadem",
-      "Bir Mourad Rais",
-      "Hydra",
-      "El Achour"
-    ],
+    "connections": {
+      "Baba Hassen": 5.2,
+      "Saoula": 4.2,
+      "Birkhadem": 8.2,
+      "Bir Mourad Rais": 10.8,
+      "Hydra": 7.6,
+      "El Achour": 2.2
+    },
     "hospitals": [
       "EPS de Proximité de DRARIA",
       "EHS REEDUCATION Réadaptation Fonctionnelle Kasdi Merbah Tixeraine"
     ]
   },
   "El Achour": {
-    "connections": [
-      "Baba Hassen",
-      "Draria",
-      "Hydra",
-      "Ben Aknoun",
-      "Dely Brahim",
-      "Ouled Fayet"
-    ],
+    "connections": {
+      "Baba Hassen": 7.1,
+      "Draria": 1.9,
+      "Hydra": 6.8,
+      "Ben Aknoun": 6.4,
+      "Dely Brahim": 4.2,
+      "Ouled Fayet": 5.6
+    },
     "hospitals": []
   },
   "El Biar": {
-    "connections": [
-      "Ben Aknoun",
-      "Hydra",
-      "El Mouradia",
-      "El Madania",
-      "Alger Centre",
-      "Oued Koreich",
-      "Bouzareah"
-    ],
+    "connections": {
+      "Ben Aknoun": 2.3,
+      "Hydra": 4.7,
+      "El Mouradia": 3.8,
+      "El Madania": 6,
+      "Alger Centre": 5.2,
+      "Oued Koreich": 2.2,
+      "Bouzareah": 4.4
+    },
     "hospitals": [
       "EPH EL BIAR (DJILLALI BELKHENCHIR)"
     ]
   },
   "El Harrach": {
-    "connections": [
-      "Les Eucalyptus",
-      "Oued Smar",
-      "Dar El Beida",
-      "Mohammadia",
-      "Hussein Dey",
-      "El Magharia",
-      "Bourouba",
-      "Bachdjerrah",
-      "Baraki"
-    ],
+    "connections": {
+      "Les Eucalyptus": 7.6,
+      "Oued Smar": 3,
+      "Dar El Beida": 11.7,
+      "Mohammadia": 3.1,
+      "Hussein Dey": 5.2,
+      "El Magharia": 3.7,
+      "Bourouba": 3.2,
+      "Bachdjerrah": 2.7,
+      "Baraki": 8.5
+    },
     "hospitals": [
       "EPH EL HARRACH ( HASSAN BADI)",
       "EHS DES URGENCES MEDICO CHIRURGICALES SALIM ZEMIRLI"
     ]
   },
   "El Madania": {
-    "connections": [
-      "Hamma",
-      "Alger Centre",
-      "Sidi M'Hamed",
-      "El Mouradia",
-      "Bir Mourad Rais",
-      "Kouba"
-    ],
+    "connections": {
+      "Hamma": 3.2,
+      "Alger Centre": 6.3,
+      "Sidi M'Hamed": 3.3,
+      "El Mouradia": 3.1,
+      "Bir Mourad Rais": 3.1,
+      "Kouba": 2.9
+    },
     "hospitals": []
   },
   "El Magharia": {
-    "connections": [
-      "Hussein Dey",
-      "Mohammadia",
-      "El Harrach",
-      "Bourouba",
-      "Kouba"
-    ],
+    "connections": {
+      "Hussein Dey": 1.9,
+      "Mohammadia": 6.8,
+      "El Harrach": 3.7,
+      "Bourouba": 3.3,
+      "Kouba": 3.3
+    },
     "hospitals": []
   },
   "El Marsa": {
-    "connections": [
-      "Ain Taya",
-      "Bordj El Bahri"
-    ],
+    "connections": {
+      "Ain Taya": 4.1,
+      "Bordj El Bahri": 4
+    },
     "hospitals": [
       "La clinique privée Ibn Sina"
     ]
   },
   "El Mouradia": {
-    "connections": [
-      "Alger Centre",
-      "El Biar",
-      "Hydra",
-      "Bir Mourad Rais",
-      "El Madania",
-      "Hamma",
-      "Sidi M'Hamed"
-    ],
+    "connections": {
+      "Alger Centre": 4.1,
+      "El Biar": 3.3,
+      "Hydra": 2.5,
+      "Bir Mourad Rais": 2,
+      "El Madania": 2.6,
+      "Hamma": 5,
+      "Sidi M'Hamed": 2.9
+    },
     "hospitals": [
       "EPH El Mouradia (Djillali Rahmouni)",
       "La clinique privée Diar Saâda"
     ]
   },
   "Gue de Constantine": {
-    "connections": [
-      "Saoula",
-      "Baraki",
-      "El Harrach",
-      "Bachdjerrah",
-      "Bourouba",
-      "Kouba",
-      "Birkhadem"
-    ],
+    "connections": {
+      "Saoula": 7,
+      "Baraki": 5.7,
+      "El Harrach": 7.9,
+      "Bachdjerrah": 6.5,
+      "Bourouba": 5.3,
+      "Kouba": 5.4,
+      "Birkhadem": 3.6
+    },
     "hospitals": []
   },
   "Hamma": {
-    "connections": [
-      "Hussein Dey",
-      "Kouba",
-      "El Madania",
-      "Sidi M'Hamed",
-      "Alger Centre"
-    ],
+    "connections": {
+      "Hussein Dey": 4.3,
+      "Kouba": 5.6,
+      "El Madania": 4.5,
+      "Sidi M'Hamed": 2.4,
+      "Alger Centre": 3.7
+    },
     "hospitals": []
   },
   "Hammamet": {
-    "connections": [
-      "Ain Benian",
-      "Beni Messous",
-      "Bouzareah",
-      "Rais Hamidou"
-    ],
+    "connections": {
+      "Ain Benian": 5.5,
+      "Beni Messous": 11.3,
+      "Bouzareah": 9.8,
+      "Rais Hamidou": 3.8
+    },
     "hospitals": []
   },
   "Hraoua": {
-    "connections": [
-      "Reghaia",
-      "Rouiba",
-      "Ain Taya"
-    ],
+    "connections": {
+      "Reghaia": 5,
+      "Rouiba": 7.5,
+      "Ain Taya": 4.2
+    },
     "hospitals": []
   },
   "Hussein Dey": {
-    "connections": [
-      "Mohammadia",
-      "El Harrach",
-      "Bourouba",
-      "El Magharia",
-      "Kouba",
-      "Hamma"
-    ],
+    "connections": {
+      "Mohammadia": 8.3,
+      "El Harrach": 7.7,
+      "Bourouba": 4.4,
+      "El Magharia": 1.9,
+      "Kouba": 2.3,
+      "Hamma": 2.5
+    },
     "hospitals": [
       "CHU Nafissa Hamoud"
     ]
   },
   "Hydra": {
-    "connections": [
-      "Bir Mourad Rais",
-      "El Madania",
-      "El Biar",
-      "Ben Aknoun",
-      "Dely Brahim",
-      "El Achour",
-      "Draria"
-    ],
+    "connections": {
+      "Bir Mourad Rais": 3.9,
+      "El Madania": 4.9,
+      "El Biar": 4.1,
+      "Ben Aknoun": 2.6,
+      "Dely Brahim": 6.1,
+      "El Achour": 6.2,
+      "Draria": 7.9
+    },
     "hospitals": [
       "La clinique privée Sidi Yahia",
       "La clinique privée Chifa",
@@ -425,27 +425,27 @@
     ]
   },
   "Khraicia": {
-    "connections": [
-      "Birtouta",
-      "Saoula",
-      "Draria",
-      "Baba Hassen",
-      "Douera"
-    ],
+    "connections": {
+      "Birtouta": 8,
+      "Saoula": 6.7,
+      "Draria": 8,
+      "Baba Hassen": 4.2,
+      "Douera": 4.5
+    },
     "hospitals": []
   },
   "Kouba": {
-    "connections": [
-      "Gue de Constantine",
-      "Bachdjerrah",
-      "Bourouba",
-      "El Magharia",
-      "Hussein Dey",
-      "Hamma",
-      "El Madania",
-      "Bir Mourad Rais",
-      "Birkhadem"
-    ],
+    "connections": {
+      "Gue de Constantine": 5.9,
+      "Bachdjerrah": 3.9,
+      "Bourouba": 3.9,
+      "El Magharia": 3.4,
+      "Hussein Dey": 2.6,
+      "Hamma": 3.5,
+      "El Madania": 2.8,
+      "Bir Mourad Rais": 4,
+      "Birkhadem": 4.8
+    },
     "hospitals": [
       "EPS de Proximité KOUBA (LES ANNASSER)",
       "EPH Kouba (Bachir Mentouri)",
@@ -453,140 +453,140 @@
     ]
   },
   "Les Eucalyptus": {
-    "connections": [
-      "Sidi Moussa",
-      "Baraki",
-      "El Harrach",
-      "Dar El Beida",
-      "Oued Smar"
-    ],
+    "connections": {
+      "Sidi Moussa": 9.3,
+      "Baraki": 6.2,
+      "El Harrach": 10.8,
+      "Dar El Beida": 12.5,
+      "Oued Smar": 8.9
+    },
     "hospitals": []
   },
   "Mahelma": {
-    "connections": [
-      "Zeralda",
-      "Souidania",
-      "Rahmania",
-      "Douera",
-      "Tassala El Merdja"
-    ],
+    "connections": {
+      "Zeralda": 7.8,
+      "Souidania": 8.2,
+      "Rahmania": 2.7,
+      "Douera": 7.4,
+      "Tassala El Merdja": 16.3
+    },
     "hospitals": []
   },
   "Mohammadia": {
-    "connections": [
-      "Bordj El Kiffan",
-      "Bab Ezzouar",
-      "Oued Smar",
-      "El Harrach",
-      "Bourouba",
-      "El Magharia",
-      "Hussein Dey"
-    ],
+    "connections": {
+      "Bordj El Kiffan": 3.6,
+      "Bab Ezzouar": 3.4,
+      "Oued Smar": 5.7,
+      "El Harrach": 5,
+      "Bourouba": 10,
+      "El Magharia": 8.3,
+      "Hussein Dey": 9.9
+    },
     "hospitals": []
   },
   "Oued Koreich": {
-    "connections": [
-      "Alger Centre",
-      "El Biar",
-      "Bab El Oued",
-      "Bologhine",
-      "Bouzareah",
-      "Casbah"
-    ],
+    "connections": {
+      "Alger Centre": 3.9,
+      "El Biar": 2.2,
+      "Bab El Oued": 3,
+      "Bologhine": 4.7,
+      "Bouzareah": 6.7,
+      "Casbah": 3.6
+    },
     "hospitals": [
       "EHS EN MALADIES INFECTIEUSES Dr EL HADI FLICI"
     ]
   },
   "Oued Smar": {
-    "connections": [
-      "Les Eucalyptus",
-      "Dar El Beida",
-      "Bab Ezzouar",
-      "Mohammadia",
-      "El Harrach"
-    ],
+    "connections": {
+      "Les Eucalyptus": 9.3,
+      "Dar El Beida": 6,
+      "Bab Ezzouar": 3.6,
+      "Mohammadia": 4.5,
+      "El Harrach": 2.7
+    },
     "hospitals": []
   },
   "Ouled Chbel": {
-    "connections": [
-      "Tassala El Merdja",
-      "Birtouta",
-      "Sidi Moussa"
-    ],
+    "connections": {
+      "Tassala El Merdja": 7.8,
+      "Birtouta": 7.2,
+      "Sidi Moussa": 12.6
+    },
     "hospitals": []
   },
   "Ouled Fayet": {
-    "connections": [
-      "Cheraga",
-      "Staoueli",
-      "Souidania",
-      "Rahmani",
-      "Douera",
-      "Baba Hassen",
-      "El Achour",
-      "Dely Brahim"
-    ],
+    "connections": {
+      "Cheraga": 4.2,
+      "Staoueli": 7.4,
+      "Souidania": 6.5,
+      "Rahmania": 14.1,
+      "Douera": 9.5,
+      "Baba Hassen": 6.6,
+      "El Achour": 6.4,
+      "Dely Brahim": 7.9
+    },
     "hospitals": []
   },
   "Rahmania": {
-    "connections": [
-      "Souidania",
-      "Mahelma",
-      "Douera",
-      "Ouled Fayet"
-    ],
+    "connections": {
+      "Souidania": 5.2,
+      "Mahelma": 2.6,
+      "Douera": 6.1,
+      "Ouled Fayet": 15.8
+    },
     "hospitals": []
   },
   "Rais Hamidou": {
-    "connections": [
-      "Hammamet",
-      "Bouzareah",
-      "Bologhine"
-    ],
+    "connections": {
+      "Hammamet": 3.8,
+      "Bouzareah": 6.1,
+      "Bologhine": 4.3
+    },
     "hospitals": []
   },
   "Reghaia": {
-    "connections": [
-      "Rouiba",
-      "Hraoua"
-    ],
+    "connections": {
+      "Rouiba": 5.9,
+      "Hraoua": 5.5
+    },
     "hospitals": [
       "EPS de Proximité REGHAIA"
     ]
   },
   "Rouiba": {
-    "connections": [
-      "Dar El Beida",
-      "Bordj El Kiffan",
-      "Bordj El Bahri",
-      "Ain Taya",
-      "Hraoua",
-      "Reghaia"
-    ],
+    "connections": {
+      "Dar El Beida": 11.3,
+      "Bordj El Kiffan": 10.7,
+      "Bordj El Bahri": 9.6,
+      "Ain Taya": 6.6,
+      "Hraoua": 6.8,
+      "Reghaia": 5.5
+    },
     "hospitals": [
       "EPH ROUIBA"
     ]
   },
   "Saoula": {
-    "connections": [
-      "Baraki",
-      "Gue de Constantine",
-      "Birkhadem",
-      "Draria",
-      "Baba Hassen",
-      "Khraicia",
-      "Birtouta"
-    ],
+    "connections": {
+      "Baraki": 15,
+      "Gue de Constantine": 6.1,
+      "Birkhadem": 3,
+      "Draria": 4.2,
+      "Baba Hassen": 6.2,
+      "Khraicia": 6.7,
+      "Birtouta": 11.8
+    },
     "hospitals": []
   },
   "Sidi M'Hamed": {
-    "connections": [
-      "El Mouradia",
-      "El Madania",
-      "Hamma",
-      "Alger Centre",
-      "El Biar"
-    ],
+    "connections": {
+      "El Mouradia": 2.5,
+      "El Madania": 2.9,
+      "Hamma": 2.7,
+      "Alger Centre": 1.8,
+      "El Biar": 4.3
+    },
     "hospitals": [
       "EHS Anti Cancéreux Pierre Et Marie Curie",
       "CHU Mustapha Bacha",
@@ -594,51 +594,51 @@
     ]
   },
   "Sidi Moussa": {
-    "connections": [
-      "Ouled Chbel",
-      "Baraki",
-      "Birtouta",
-      "Les Eucalyptus"
-    ],
+    "connections": {
+      "Ouled Chbel": 12.6,
+      "Baraki": 8.5,
+      "Birtouta": 14.1,
+      "Les Eucalyptus": 9.3
+    },
     "hospitals": []
   },
   "Souidania": {
-    "connections": [
-      "Mahelma",
-      "Zeralda",
-      "Staoueli",
-      "Cheraga",
-      "Ouled Fayet",
-      "Rahmania"
-    ],
+    "connections": {
+      "Mahelma": 8.1,
+      "Zeralda": 10.6,
+      "Staoueli": 8.2,
+      "Cheraga": 9.6,
+      "Ouled Fayet": 6.5,
+      "Rahmania": 5.1
+    },
     "hospitals": []
   },
   "Staoueli": {
-    "connections": [
-      "Zeralda",
-      "Souidania",
-      "Ouled Fayet",
-      "Cheraga"
-    ],
+    "connections": {
+      "Zeralda": 6.8,
+      "Souidania": 7.8,
+      "Ouled Fayet": 8.8,
+      "Cheraga": 8.6
+    },
     "hospitals": [
       "EHS REEDUCATION READAPTATION AZUR PLAGE (STAOUELI)"
     ]
   },
   "Tassala El Merdja": {
-    "connections": [
-      "Mahelma",
-      "Douera",
-      "Birtouta",
-      "Ouled Chbel"
-    ],
+    "connections": {
+      "Mahelma": 13.2,
+      "Douera": 6.3,
+      "Birtouta": 5.7,
+      "Ouled Chbel": 7.8
+    },
     "hospitals": []
   },
   "Zeralda": {
-    "connections": [
-      "Mahelma",
-      "Souidania",
-      "Staoueli"
-    ],
+    "connections": {
+      "Mahelma": 9.7,
+      "Souidania": 10.1,
+      "Staoueli": 6.8
+    },
     "hospitals": [
       "EPS de Proximité ZERALDA",
       "EPH ZERALDA"
