@@ -338,6 +338,7 @@ def breadth_first_search(problem):
 
     return "failure"
 
+
 ################################################################
 def depth_first_search(problem):
     node = Node(state=problem.initial_state, path_cost=0)
@@ -346,7 +347,7 @@ def depth_first_search(problem):
 
     frontier = [(node.path_cost, node)]  # Priority queue ordered by path cost
     explored = set()
-    solutions=[]
+    solutions = []
 
     while frontier:
         if not frontier:  # If frontier is empty
@@ -361,9 +362,11 @@ def depth_first_search(problem):
                 if problem.goal_test(child.state):
                     solutions.append(solution(child))
                 frontier.append((child.path_cost, child))
-    optimised_solution=min(solutions, key=len)
-    if optimised_solution: return optimised_solution
-    else: return "failure"
+    optimised_solution = min(solutions, key=len)
+    if optimised_solution:
+        return optimised_solution
+    else:
+        return "failure"
 
 
 ################################################################

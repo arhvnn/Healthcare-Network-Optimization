@@ -1,0 +1,309 @@
+{
+    "CHU Beni Messous": {
+        "type": "public",
+        "departments": [
+            "Anatomical Pathology",
+            "Cardiology",
+            "General Surgery",
+            "Gynecology-Obstetrics",
+            "Hematology",
+            "Internal Medicine",
+            "Epidemiology",
+            "Ophthalmology",
+            "Otorhinolaryngology (ORL)",
+            "Pediatrics",
+            "Pneumo-Allergist",
+            "Pneumology",
+            "Pneumophthisiology",
+            "Radiology",
+            "Reanimation",
+            "Rheumatology",
+            "Forensic Medicine (or Legal Medicine)",
+            "Nephrology",
+            "Microbiology",
+            "Occupational Medicine",
+            "Pediatric Surgery"
+        ]
+    },
+    "CHU Bab El Oued": {
+        "type": "public",
+        "departments": [
+            "Anatomical Pathology",
+            "Biochemistry",
+            "Dermatology",
+            "Diabetology",
+            "Emergency Medicine (Emergency Surgery)",
+            "Endocrinology",
+            "Epidemiology",
+            "Forensic Medicine",
+            "Gastroenterology",
+            "General Surgery",
+            "Gynecology-Obstetrics",
+            "Hematology",
+            "Internal Medicine",
+            "Medical Imaging (Radiology)",
+            "Nephrology",
+            "Neurology",
+            "Neurosurgery",
+            "Nuclear Medicine",
+            "Ophthalmology",
+            "Orthopedics",
+            "Otorhinolaryngology (ENT)",
+            "Pediatrics",
+            "Pharmacology",
+            "Physical Medicine and Rehabilitation",
+            "Psychiatry",
+            "Pulmonology",
+            "Rheumatology",
+            "Surgical Intensive Care (Critical Care)",
+            "Toxicology",
+            "Traumatology"
+        ]
+    },
+    "CHU Nafissa Hamoud": {
+        "type": "public",
+        "departments": [
+            "Cardiology",
+            "Epidemiology",
+            "Forensic Medicine (or Forensic Pathology)",
+            "Histology",
+            "Nephrology",
+            "Obstetrics and Gynecology",
+            "Ophthalmology",
+            "Parasitology",
+            "Pathological Anatomy",
+            "Pediatric Surgery",
+            "Pediatrics",
+            "Physiology",
+            "Radiology"
+        ]
+    },
+    "CHU Mustapha Bacha": {
+        "type": "public",
+        "departments": [
+            "Dermatology & Venereology",
+            "Diabetology",
+            "Forensic Medicine",
+            "Functional Rehabilitation",
+            "Gastroenterology",
+            "Hepatology",
+            "Immunology",
+            "Neonatology",
+            "Neurology Service",
+            "Ophthalmology",
+            "Oral Pathology and Surgery",
+            "Parasitology & Mycology",
+            "Periodontology",
+            "Surgical Clinic",
+            "Thoracic Surgery"
+        ]
+    },
+    "CHU Douera": {
+        "type": "public",
+        "departments": [
+            "Burn Surgery",
+            "Orthopedic Surgery"
+        ]
+    },
+    "EPS de Proximité SIDI M'HAMED (BOUCHENAFA)": {
+        "type": "public",
+        "departments": []
+    },
+    "EPS de Proximité ZERALDA": {
+        "type": "public",
+        "departments": []
+    },
+    "EPS de Proximité REGHAIA": {
+        "type": "public",
+        "departments": []
+    },
+    "EPS de Proximité KOUBA (LES ANNASSER)": {
+        "type": "public",
+        "departments": []
+    },
+    "EPS de Proximité CHERAGA ( BOUCHAOUI)": {
+        "type": "public",
+        "departments": []
+    },
+    "EPS de Proximité BOUZAREAH": {
+        "type": "public",
+        "departments": []
+    },
+    "EPS de Proximité BORDJ EL KIFFAN (DERGANA)": {
+        "type": "public",
+        "departments": []
+    },
+    "EPS de Proximité BARAKI": {
+        "type": "public",
+        "departments": []
+    },
+    "EPS de Proximité BAB EL OUED": {
+        "type": "public",
+        "departments": []
+    },
+    "EPS de Proximité de DRARIA": {
+        "type": "public",
+        "departments": []
+    },
+    "EPH ZERALDA": {
+        "type": "public",
+        "departments": []
+    },
+    "EPH ROUIBA": {
+        "type": "public",
+        "departments": [
+            "surgery",
+            "internal medicine",
+            "pediatrics",
+            "maternity"
+        ]
+    },
+    "EPH EL HARRACH ( HASSAN BADI)": {
+        "type": "public",
+        "departments": [
+            "surgery",
+            "internal medicine",
+            "pediatrics",
+            "maternity"
+        ]
+    },
+    "EPH EL BIAR (DJILLALI BELKHENCHIR)": {
+        "type": "public",
+        "departments": [
+            "General Surgery",
+            "Internal Medicine",
+            "Neurophysiology",
+            "Pediatric Surgery",
+            "Pediatrics"
+        ]
+    },
+    "EPH AIN TAYA": {
+        "type": "public",
+        "departments": [
+            "General Surgery",
+            "Gynecology-Obstetrics",
+            "Internal Medicine",
+            "Pediatrics",
+            "Radiology",
+            "Emergency Medicine"
+        ]
+    },
+    "EPH Kouba (Bachir Mentouri)": {
+        "type": "public",
+        "departments": [
+            "Anesthesia - Resuscitation",
+            "General Surgery",
+            "Gynecology-Obstetrics",
+            "Internal Medicine",
+            "Legal Medicine",
+            "Otorhinolaryngology (ORL)",
+            "Radiology"
+        ]
+    },
+    "EPH Bologhine Ibn Ziri": {
+        "type": "public",
+        "departments": [
+            "surgery",
+            "internal medicine",
+            "pediatrics",
+            "maternity"
+        ]
+    },
+    "EPH El Mouradia (Djillali Rahmouni)": {
+        "type": "public",
+        "departments": [
+            "surgery",
+            "internal medicine",
+            "pediatrics",
+            "maternity"
+        ]
+    },
+    "EHS REEDUCATION Réadaptation Fonctionnelle Kasdi Merbah Tixeraine": {
+        "type": "public",
+        "departments": []
+    },
+    "EHS REEDUCATION READAPTATION AZUR PLAGE (STAOUELI)": {
+        "type": "public",
+        "departments": []
+    },
+    "EHS PSYCHIATRIQUE DRID HOCINE": {
+        "type": "public",
+        "departments": []
+    },
+    "EHS NEURO CHIRURGICAL ALI AIT IDIR": {
+        "type": "public",
+        "departments": []
+    },
+    "EHS CNMS DR MAOUCHE MOHAND AMOKRANE": {
+        "type": "public",
+        "departments": []
+    },
+    "EHS DES URGENCES MEDICO CHIRURGICALES SALIM ZEMIRLI": {
+        "type": "public",
+        "departments": []
+    },
+    "EHS EN MALADIES INFECTIEUSES Dr EL HADI FLICI": {
+        "type": "public",
+        "departments": []
+    },
+    "EHS Des Brules Et Chirurgie Réparatrice Claudine Et Pierre Chaulet": {
+        "type": "public",
+        "departments": []
+    },
+    "EHS Chirurgie Cardiaque Clinique Mohamed ABDERRAHMANI": {
+        "type": "public",
+        "departments": []
+    },
+    "EHS Ben Aknoun": {
+        "type": "public",
+        "departments": []
+    },
+    "EHS Anti Cancéreux Pierre Et Marie Curie": {
+        "type": "public",
+        "departments": []
+    },
+    "EHS en Psychiatrie Cheraga": {
+        "type": "public",
+        "departments": []
+    },
+    "La clinique privée Al Azhar": {
+        "type": "private",
+        "departments": []
+    },
+    "La clinique privée En Nadjah": {
+        "type": "private",
+        "departments": []
+    },
+    "La clinique privée Sidi Yahia": {
+        "type": "private",
+        "departments": []
+    },
+    "La clinique privée Audin": {
+        "type": "private",
+        "departments": []
+    },
+    "La clinique privée Ibn Sina": {
+        "type": "private",
+        "departments": []
+    },
+    "La clinique privée Chifa": {
+        "type": "private",
+        "departments": []
+    },
+    "La clinique privée Diar Saâda": {
+        "type": "private",
+        "departments": []
+    },
+    "La clinique privée Aya": {
+        "type": "private",
+        "departments": []
+    },
+    "La clinique privée El Qods": {
+        "type": "private",
+        "departments": []
+    },
+    "La clinique privée Sonya": {
+        "type": "private",
+        "departments": []
+    }
+}
