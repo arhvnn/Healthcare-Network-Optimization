@@ -159,9 +159,7 @@
       "Bouzareah": 3.7,
       "Oued Koreich": 5.7
     },
-    "hospitals": [
-      "EPH Bologhine Ibn Ziri"
-    ]
+    "hospitals": []
   },
   "Bordj El Bahri": {
     "connections": {
@@ -404,7 +402,7 @@
       "Bouzareah": 9.8,
       "Beni Messous": 11.3
     },
-    "hospitals": []
+    "hospitals": ["EPH Bologhine Ibn Ziri"]
   },
   "Hraoua": {
     "connections": {

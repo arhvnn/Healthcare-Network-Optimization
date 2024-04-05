@@ -12,9 +12,13 @@ def main():
 
     data_file_path = os.path.join(script_dir, "..", "data", "AlgiersHospitals.json")
     algiers_hospitals = load_data(data_file_path)
+    
+    
 
-    initial_state = "Baraki"
-    goal_state = {"type": "public", "department": "Physiology"}
+    initial_state = input("You are at: ")
+    goal_type = input("Enter the type of hospital: ")
+    goal_department = input("Enter the department of the hospital: ")
+    goal_state = {"type": goal_type, "department": goal_department}
 
     problem = Problem(initial_state, goal_state, algiers_cities, algiers_hospitals)
     solver = Solver(problem)
