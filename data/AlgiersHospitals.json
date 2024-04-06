@@ -368,14 +368,20 @@
     },
     "La clinique privée Aya": {
         "type": "private",
-        "departments": []
+        "departments": [],
+        "x": null,
+        "y": null
     },
     "La clinique privée El Qods": {
         "type": "private",
-        "departments": []
+        "departments": [],
+        "x": null,
+        "y": null
     },
     "La clinique privée Sonya": {
         "type": "private",
-        "departments": []
+        "departments": [],
+        "x": null,
+        "y": null
     }
 }
