@@ -183,9 +183,9 @@
     "EPH EL HARRACH ( HASSAN BADI)": {
         "type": "public",
         "departments": [
-            "surgery",
-            "internal medicine",
-            "pediatrics",
+            "General Surgery",
+            "Internal Medicine",
+            "Pediatrics",
             "maternity"
         ],
         "x": 3.137306,
@@ -233,10 +233,10 @@
     "EPH Bologhine Ibn Ziri": {
         "type": "public",
         "departments": [
-            "surgery",
-            "internal medicine",
-            "pediatrics",
-            "maternity"
+            "General Surgery",
+            "Internal Medicine",
+            "Pediatrics",
+            "Maternity"
         ],
         "x": 2.9790086,
         "y": 36.6873063
@@ -244,10 +244,10 @@
     "EPH El Mouradia (Djillali Rahmouni)": {
         "type": "public",
         "departments": [
-            "surgery",
-            "internal medicine",
-            "pediatrics",
-            "maternity"
+            "General Surgery",
+            "Internal Medicine",
+            "Pediatrics",
+            "Maternity"
         ],
         "x": 3.0416214,
         "y": 36.7579494

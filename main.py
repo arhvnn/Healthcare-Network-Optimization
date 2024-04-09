@@ -12,7 +12,7 @@ class Node:
         self.path_cost = path_cost
 
     def __str__(self):
-        return f"# City: {self.state}, Distance crossed: {round(self.path_cost, 2)}KM"
+        return f"# City: {self.state}, Distance crossed: {round(self.path_cost/1000, 3)}KM"
 
 
 # Data Loading
@@ -67,6 +67,7 @@ class problem:
                 and self.goal_state["department"]
                 in self.hospital_info[hospital]["departments"]
             ):
+                print("Your destination is " + hospital)
                 return True
         return False
 
@@ -114,7 +115,7 @@ class Solver:
 
 
 # Main
-problem = problem(26616005)
+problem = problem(374382205)
 solver = Solver(problem)
 solution_path = solver.breadth_first_search()
 
@@ -122,8 +123,11 @@ solution_path = solver.breadth_first_search()
 # Plot
 states = []
 for i in solution_path:
+    print(i)
     states.append(i.state)
 states
 
-graph =ox.graph_from_place("Algiers, Algeria")
+# graph = ox.graph_from_place("Algiers, Algeria")
+# ox.save_graphml(graph, filepath="data/Map.graphml")
+graph=ox.load_graphml(filepath="data/Map.graphml")
 ox.plot.plot_graph_route(graph, states)
