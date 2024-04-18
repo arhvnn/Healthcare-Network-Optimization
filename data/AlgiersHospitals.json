@@ -254,55 +254,91 @@
     },
     "EHS REEDUCATION Réadaptation Fonctionnelle Kasdi Merbah Tixeraine": {
         "type": "public",
-        "departments": [],
+        "departments": [
+            "Rehabilitation and Functional Re-education"
+        ],
         "x": 3.0217875,
         "y": 36.7327108
     },
     "EHS REEDUCATION READAPTATION AZUR PLAGE (STAOUELI)": {
         "type": "public",
-        "departments": [],
+        "departments": [
+            "Rehabilitation and Functional Re-education"
+        ],
         "x": 2.84523,
         "y": 36.7129003
     },
     "EHS PSYCHIATRIQUE DRID HOCINE": {
         "type": "public",
-        "departments": [],
+        "departments": [
+            "EHS REEDUCATION Réadaptation Fonctionnelle Kasdi Merbah Tixeraine"
+        ],
         "x": 3.0853455,
         "y": 36.6362291
     },
     "EHS NEURO CHIRURGICAL ALI AIT IDIR": {
         "type": "public",
-        "departments": [],
+        "departments": [
+            "Neuroradiology",
+            "Neurophysiology",
+            "Neurology",
+            "Neurosurgery"
+        ],
         "x": 3.0584103,
         "y": 36.7801058
     },
     "EHS CNMS DR MAOUCHE MOHAND AMOKRANE": {
         "type": "public",
-        "departments": [],
+        "departments": [
+            "Anesthesia - Intensive Care Medicine",
+            "Cardiology",
+            "Cardiac Surgery",
+            "Vascular Surgery",
+            "Sports Medicine",
+            "Physiology"
+        ],
         "x": 3.0015867,
         "y": 36.7152731
     },
     "EHS DES URGENCES MEDICO CHIRURGICALES SALIM ZEMIRLI": {
         "type": "public",
-        "departments": [],
+        "departments": [
+            "Emergency Medical Surgery",
+            "Orthopedics",
+            "Neurosurgery",
+            "Forensic Medicine",
+            "Internal Medicine",
+            "General Surgery",
+            "Anesthesia - Intensive Care Medicine"
+        ],
         "x": 3.1238449,
         "y": 36.7188453
     },
     "EHS EN MALADIES INFECTIEUSES Dr EL HADI FLICI": {
         "type": "public",
-        "departments": [],
+        "departments": [
+            "Radiology",
+            "Emergency Medicine",
+            "Microbiology",
+            "Infectious Diseases"
+        ],
         "x": 3.0512255,
         "y": 36.7568759
     },
     "EHS Des Brules Et Chirurgie Réparatrice Claudine Et Pierre Chaulet": {
         "type": "public",
-        "departments": [],
+        "departments": [
+            "Plastic Reconstructive Surgery",
+            "Burn Surgery"
+        ],
         "x": 3.0563932,
         "y": 36.7601758
     },
     "EHS Chirurgie Cardiaque Clinique Mohamed ABDERRAHMANI": {
         "type": "public",
-        "departments": [],
+        "departments": [
+            "Cardiovascular and Thoracic Surgery"
+        ],
         "x": 3.0527578,
         "y": 36.7302259
     },
@@ -326,13 +362,34 @@
     },
     "La clinique privée Al Azhar": {
         "type": "private",
-        "departments": [],
+        "departments": [
+            "Digestive Surgery",
+            "Aesthetic and reconstructive Surgery",
+            "General Surgery",
+            "Maxillofacial Surgery",
+            "Neurological Surgery",
+            "Ophthalmic Surgery",
+            "ENT Surgery",
+            "Orthopedic Surgery",
+            "Pediatric Surgery",
+            "Breast Surgery",
+            "Thoracic Surgery",
+            "Urological Surgery",
+            "Vascular Surgery"
+        ],
         "x": null,
         "y": null
     },
     "La clinique privée En Nadjah": {
         "type": "private",
-        "departments": [],
+        "departments": [
+            "Oncological Surgery",
+            "Urological Surgery",
+            "Laparoscopic Surgery",
+            "Gastroenterology",
+            "Neurosurgery",
+            "Breast Surgery"
+        ],
         "x": null,
         "y": null
     },
