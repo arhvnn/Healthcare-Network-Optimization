@@ -1,22 +1,28 @@
 from utils import load_data
 from node import Node
-import os
 
-script_dir = os.path.dirname(__file__)
-
-
-data_file_path = os.path.join(script_dir, "..", "data", "AlgiersCities.json")
+data_file_path = "data/AlgiersHospitals.json"
 algiers_hospitals = load_data(data_file_path)
 
-data_file_path = os.path.join(script_dir, "..", "data", "AlgiersHospitals.json")
+data_file_path = "data/MapNodes.json"
 nodes = load_data(data_file_path)
 
 data_file_path = "data/MapEdges.json"
 edges = load_data(data_file_path)
-edges = {eval(key): value for key, value in edges.items()} # Turns keys from string into tuples
+edges = {
+    eval(key): value for key, value in edges.items()
+}  # Turns keys from string into tuples
 
-class Problem:
-    def __init__(self, initial_state, goal_state={"type":"public", "department":"General Surgery"}, transition_model=nodes, costs=edges, hospital_info=algiers_hospitals):
+
+class problem:
+    def __init__(
+        self,
+        initial_state,
+        goal_state={"type": "public", "department": "General Surgery"},
+        transition_model=nodes,
+        costs=edges,
+        hospital_info=algiers_hospitals,
+    ):
         self.initial_state = initial_state
         self.goal_state = goal_state
         self.transition_model = transition_model
@@ -26,8 +32,8 @@ class Problem:
     def actions(self, state):
         neighbour_nodes = self.transition_model[str(state)]["neighbors"]
         return neighbour_nodes
-    
-    #FIXME: Remove this function
+
+    # FIXME: Remove this function
 
     def result(self, state, action):
         return action
@@ -36,8 +42,9 @@ class Problem:
         hospital = nodes[str(state)]["hospital"]
         if hospital:
             if (
-                self.goal_state["type"]==self.hospital_info[hospital]["type"] 
-                and self.goal_state["department"] in self.hospital_info[hospital]["departments"]
+                self.goal_state["type"] == self.hospital_info[hospital]["type"]
+                and self.goal_state["department"]
+                in self.hospital_info[hospital]["departments"]
             ):
                 return True
         return False

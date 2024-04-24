@@ -1,5 +1,5 @@
-from collections import deque
 from node import Node
+from collections import deque
 
 class Solver:
     def __init__(self, problem):

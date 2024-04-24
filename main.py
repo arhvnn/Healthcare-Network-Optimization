@@ -3,7 +3,6 @@ import osmnx as ox
 from collections import deque
 import requests
 import geocoder
-
 ###################
 class Node:
     def __init__(self, state, parent=None, action=None, path_cost=0):
