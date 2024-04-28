@@ -2,8 +2,12 @@ import osmnx as ox
 from utils import get_current_location_coordinates
 from problem import problem
 from solver import Solver
+import os
 
-graph = ox.load_graphml(filepath="data/Map.graphml")
+script_dir = os.path.dirname(__file__)
+
+data_file_path = os.path.join(script_dir, "..", "data", "Map.graphml")
+graph = ox.load_graphml(filepath=data_file_path)
 
 Y, X = get_current_location_coordinates()
 initial_state=ox.distance.nearest_nodes(graph, X, Y, return_dist=False)

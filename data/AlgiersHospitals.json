@@ -5,12 +5,12 @@
             "Anatomical Pathology",
             "Cardiology",
             "General Surgery",
-            "Gynecology-Obstetrics",
+            "Obstetrics and Gynecology",
             "Hematology",
             "Internal Medicine",
             "Epidemiology",
             "Ophthalmology",
-            "Otorhinolaryngology (ORL)",
+            "Otorhinolaryngology",
             "Pediatrics",
             "Pneumo-Allergist",
             "Pneumology",
@@ -18,7 +18,7 @@
             "Radiology",
             "Reanimation",
             "Rheumatology",
-            "Forensic Medicine (or Legal Medicine)",
+            "Forensic Medicine",
             "Nephrology",
             "Microbiology",
             "Occupational Medicine",
@@ -34,23 +34,23 @@
             "Biochemistry",
             "Dermatology",
             "Diabetology",
-            "Emergency Medicine (Emergency Surgery)",
+            "Emergency Medicine",
             "Endocrinology",
             "Epidemiology",
             "Forensic Medicine",
             "Gastroenterology",
             "General Surgery",
-            "Gynecology-Obstetrics",
+            "Obstetrics and Gynecology",
             "Hematology",
             "Internal Medicine",
-            "Medical Imaging (Radiology)",
+            "Radiology",
             "Nephrology",
             "Neurology",
             "Neurosurgery",
             "Nuclear Medicine",
             "Ophthalmology",
             "Orthopedics",
-            "Otorhinolaryngology (ENT)",
+            "Otorhinolaryngology",
             "Pediatrics",
             "Pharmacology",
             "Physical Medicine and Rehabilitation",
@@ -69,7 +69,7 @@
         "departments": [
             "Cardiology",
             "Epidemiology",
-            "Forensic Medicine (or Forensic Pathology)",
+            "Forensic Medicine",
             "Histology",
             "Nephrology",
             "Obstetrics and Gynecology",
@@ -87,7 +87,7 @@
     "CHU Mustapha Bacha": {
         "type": "public",
         "departments": [
-            "Dermatology & Venereology",
+            "Dermatology",
             "Diabetology",
             "Forensic Medicine",
             "Functional Rehabilitation",
@@ -95,7 +95,7 @@
             "Hepatology",
             "Immunology",
             "Neonatology",
-            "Neurology Service",
+            "Neurology",
             "Ophthalmology",
             "Oral Pathology and Surgery",
             "Parasitology & Mycology",
@@ -172,10 +172,10 @@
     "EPH ROUIBA": {
         "type": "public",
         "departments": [
-            "surgery",
-            "internal medicine",
-            "pediatrics",
-            "maternity"
+            "General Surgery",
+            "Internal Medicine",
+            "Pediatrics",
+            "Maternity"
         ],
         "x": 3.2861989,
         "y": 36.7950878
@@ -186,7 +186,7 @@
             "General Surgery",
             "Internal Medicine",
             "Pediatrics",
-            "maternity"
+            "Maternity"
         ],
         "x": 3.137306,
         "y": 36.7181538
@@ -207,7 +207,7 @@
         "type": "public",
         "departments": [
             "General Surgery",
-            "Gynecology-Obstetrics",
+            "Obstetrics and Gynecology",
             "Internal Medicine",
             "Pediatrics",
             "Radiology",
@@ -219,12 +219,12 @@
     "EPH Kouba (Bachir Mentouri)": {
         "type": "public",
         "departments": [
-            "Anesthesia - Resuscitation",
+            "Anesthesia and Critical Care",
             "General Surgery",
-            "Gynecology-Obstetrics",
+            "Obstetrics and Gynecology",
             "Internal Medicine",
-            "Legal Medicine",
-            "Otorhinolaryngology (ORL)",
+            "Forensic Medicine",
+            "Otorhinolaryngology",
             "Radiology"
         ],
         "x": 3.0868534,
@@ -255,7 +255,7 @@
     "EHS REEDUCATION Réadaptation Fonctionnelle Kasdi Merbah Tixeraine": {
         "type": "public",
         "departments": [
-            "Rehabilitation and Functional Re-education"
+            "Physical Medicine and Rehabilitation"
         ],
         "x": 3.0217875,
         "y": 36.7327108
@@ -263,7 +263,7 @@
     "EHS REEDUCATION READAPTATION AZUR PLAGE (STAOUELI)": {
         "type": "public",
         "departments": [
-            "Rehabilitation and Functional Re-education"
+            "Physical Medicine and Rehabilitation"
         ],
         "x": 2.84523,
         "y": 36.7129003
@@ -271,7 +271,7 @@
     "EHS PSYCHIATRIQUE DRID HOCINE": {
         "type": "public",
         "departments": [
-            "EHS REEDUCATION Réadaptation Fonctionnelle Kasdi Merbah Tixeraine"
+            "Psychiatry"
         ],
         "x": 3.0853455,
         "y": 36.6362291
@@ -290,7 +290,7 @@
     "EHS CNMS DR MAOUCHE MOHAND AMOKRANE": {
         "type": "public",
         "departments": [
-            "Anesthesia - Intensive Care Medicine",
+            "Anesthesia and Critical Care",
             "Cardiology",
             "Cardiac Surgery",
             "Vascular Surgery",
@@ -303,13 +303,13 @@
     "EHS DES URGENCES MEDICO CHIRURGICALES SALIM ZEMIRLI": {
         "type": "public",
         "departments": [
-            "Emergency Medical Surgery",
+            "Emergency Medicine",
             "Orthopedics",
             "Neurosurgery",
             "Forensic Medicine",
             "Internal Medicine",
             "General Surgery",
-            "Anesthesia - Intensive Care Medicine"
+            "Anesthesia and Critical Care"
         ],
         "x": 3.1238449,
         "y": 36.7188453
@@ -344,7 +344,14 @@
     },
     "EHS Ben Aknoun": {
         "type": "public",
-        "departments": [],
+        "departments": [
+            "Traumatology",
+            "Rheumatology",
+            "Physical Medicine and Rehabilitation",
+            "Orthopedics",
+            "Phthisiology",
+            "Neurology"
+        ],
         "x": 3.0007401,
         "y": 36.7338392
     },
@@ -356,7 +363,9 @@
     },
     "EHS en Psychiatrie Cheraga": {
         "type": "public",
-        "departments": [],
+        "departments": [
+            "Psychiatry"
+        ],
         "x": 2.9540991,
         "y": 36.7663921
     },
@@ -370,7 +379,7 @@
             "Neurological Surgery",
             "Ophthalmic Surgery",
             "ENT Surgery",
-            "Orthopedic Surgery",
+            "Orthopedics",
             "Pediatric Surgery",
             "Breast Surgery",
             "Thoracic Surgery",

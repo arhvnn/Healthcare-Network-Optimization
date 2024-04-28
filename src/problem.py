@@ -1,13 +1,17 @@
 from utils import load_data
 from node import Node
+import os
 
-data_file_path = "data/AlgiersHospitals.json"
+script_dir = os.path.dirname(__file__)
+
+
+data_file_path = os.path.join(script_dir, "..", "data", "AlgiersHospitals.json")
 algiers_hospitals = load_data(data_file_path)
 
-data_file_path = "data/MapNodes.json"
+data_file_path = os.path.join(script_dir, "..", "data", "MapNodes.json")
 nodes = load_data(data_file_path)
 
-data_file_path = "data/MapEdges.json"
+data_file_path = os.path.join(script_dir, "..", "data", "MapEdges.json")
 edges = load_data(data_file_path)
 edges = {
     eval(key): value for key, value in edges.items()
@@ -35,11 +39,11 @@ class problem:
 
     # FIXME: Remove this function
 
-    def result(self, state, action):
+    def result(self,state, action):
         return action
 
     def goal_test(self, state):
-        hospital = nodes[str(state)]["hospital"]
+        hospital = self.transition_model[str(state)]["hospital"]
         if hospital:
             if (
                 self.goal_state["type"] == self.hospital_info[hospital]["type"]
