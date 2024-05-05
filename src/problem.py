@@ -1,3 +1,4 @@
+from turtle import distance
 from utils import load_data
 from node import Node
 import os
@@ -39,7 +40,7 @@ class problem:
 
     # FIXME: Remove this function
 
-    def result(self,state, action):
+    def result(self, state, action):
         return action
 
     def goal_test(self, state):
@@ -60,3 +61,26 @@ class problem:
         state = self.result(parent.state, action)
         path_cost = parent.path_cost + self.step_cost(parent.state, action)
         return Node(state=state, parent=parent, action=action, path_cost=path_cost)
+
+    def goal_hospital(self):
+        initial_x, initial_y = (
+            self.transition_model[self.initial_state]["x"],
+            self.transition_model[self.initial_state]["y"],
+        )
+        min_distance=0
+        goal_hospital=''
+        for hospital in self.hospital_info:
+            if self.goal_state['type']==hospital['type'] and self.goal_state['department'] in self.hospital_info['departments']:
+                distance = ox.distance.euclidean(initial_y, initial_x, hospital['y'], hospital['x'])
+                if distance < min_distance:
+                    min_distance = distance
+                    goal_hospital = hospital
+        return goal_hospital
+
+    def heuristic(self, state):
+        goal_hospital=self.goal_hospital()
+        current_x, current_y = (
+            self.transition_model[state]["x"],
+            self.transition_model[state]["y"],
+        )
+        return ox.distance.euclidean(current_y, current_x, self.transition_model[goal_hospital]['y'], self.transition_model[goal_hospital]['x'])

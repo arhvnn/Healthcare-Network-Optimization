@@ -9,15 +9,16 @@ script_dir = os.path.dirname(__file__)
 data_file_path = os.path.join(script_dir, "..", "data", "Map.graphml")
 graph = ox.load_graphml(filepath=data_file_path)
 
-Y, X = get_current_location_coordinates()
-initial_state=ox.distance.nearest_nodes(graph, X, Y, return_dist=False)
-problem=problem(initial_state)
+# Y, X = get_current_location_coordinates()
+Y, X = 36.7762368, 3.2614599
+initial_state = ox.distance.nearest_nodes(graph, X, Y, return_dist=False)
+problem = problem(initial_state)
 solver = Solver(problem)
-solution_path = solver.breadth_first_search()
+solution_path = solver.general_search()
+# solution_path = solver.breadth_first_search()
 
-states=[]
-for i in solution_path:
-    states.append(i.state)
-states
+states = []
+for node in solution_path:
+    states.append(node.state)
 
 ox.plot.plot_graph_route(graph, states)
