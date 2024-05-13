@@ -6,4 +6,7 @@ class Node:
         self.path_cost = path_cost  
 
     def __str__(self):
-        return f"# City: {self.state}, Distance crossed: {round(self.path_cost, 2)}KM"
+        return f"{self.state}"
+    
+    def __lt__(self, other):
+        return self.path_cost <= other.path_cost
