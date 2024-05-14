@@ -102,3 +102,8 @@ class problem:
             self.transition_model[str(goal_hospital)]["y"],
             self.transition_model[str(goal_hospital)]["x"],
         )
+    
+    def random_successor(self, state):
+        """Returns a random successor of the given state"""
+        import random
+        return random.choice(self.actions(state))

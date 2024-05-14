@@ -68,3 +68,21 @@ class Solver:
             path.insert(0, node)
             node = node.parent
         return path
+
+    def hill_climbing_search(self, max_iterations=1000, step_size=0.1):
+        # Initialize random starting point
+        current_node = Node(state=self.problem.initial_state, path_cost=0)
+        current_value = self.problem.heuristic(current_node.state)
+
+        for _ in range(max_iterations):
+            # Generate a new solution by adding a small random step
+            new_state = self.problem.random_successor(current_node.state)
+            new_node = Node(state=new_state, parent=current_node, path_cost=current_node.path_cost + 1)
+            new_value = self.problem.heuristic(new_state)
+
+            # If the new solution is better, move to it
+            if new_value > current_value:
+                current_node = new_node
+                current_value = new_value
+
+        return self.solution(current_node)
